@@ -1,0 +1,29 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+env/
+.env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# datasets
+datasets/
+data/
+
+# trained models
+models/
+*.pt
+*.pth
+*.h5
+
+# system files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
